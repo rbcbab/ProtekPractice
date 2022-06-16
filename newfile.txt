@@ -1,0 +1,1 @@
+2- create 1 branch from main repository , make one file change. push changes, then create a pull request against master branch. dont merge. 
